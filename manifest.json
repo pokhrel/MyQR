@@ -4,12 +4,12 @@
     "manifestVersion": "1.21",
     "version": "1.0.0",
     "name": {
-        "short": "Hello world",
-        "full": "Hello world"
+        "short": "MyLinks",
+        "full": "MyLinks"
     },
     "description": {
-        "short": "A simple Hello World Office Add-in.",
-        "full": "A simple Hello World Office Add-in."
+        "short": "My Links Office Add-in.",
+        "full": "My Links Office Add-in."
     },
     "developer": {
         "name": "Contoso",
@@ -36,7 +36,7 @@
         }
     },
     "validDomains": [
-        "https://localhost:3000"
+        "https://pokhrel.github.io"
     ],
     "extensions": [
         {
@@ -64,7 +64,7 @@
                     "id": "TaskPaneRuntime",
                     "type": "general",
                     "code": {
-                        "page": "https://localhost:3000/taskpane.html"
+                        "page": "https://pokhrel.github.io/MyQR/taskpane.html"
                     },
                     "lifetime": "short",
                     "actions": [
@@ -91,15 +91,15 @@
                                     "icons": [
                                         {
                                             "size": 16,
-                                            "url": "https://localhost:3000/assets/icon-16.png"
+                                            "url": "https://pokhrel.github.io/MyQR/assets/icon-16.png"
                                         },
                                         {
                                             "size": 32,
-                                            "url": "https://localhost:3000/assets/icon-32.png"
+                                            "url": "https://pokhrel.github.io/MyQR/assets/icon-32.png"
                                         },
                                         {
                                             "size": 80,
-                                            "url": "https://localhost:3000/assets/icon-80.png"
+                                            "url": "https://pokhrel.github.io/MyQR/assets/icon-80.png"
                                         }
                                     ],
                                     "controls": [
@@ -110,15 +110,15 @@
                                             "icons": [
                                                 {
                                                     "size": 16,
-                                                    "url": "https://localhost:3000/assets/icon-16.png"
+                                                    "url": "https://pokhrel.github.io/MyQR/assets/icon-16.png"
                                                 },
                                                 {
                                                     "size": 32,
-                                                    "url": "https://localhost:3000/assets/icon-32.png"
+                                                    "url": "https://pokhrel.github.io/MyQR/assets/icon-32.png"
                                                 },
                                                 {
                                                     "size": 80,
-                                                    "url": "https://localhost:3000/assets/icon-80.png"
+                                                    "url": "https://pokhrel.github.io/MyQR/assets/icon-80.png"
                                                 }
                                             ],
                                             "supertip": {
